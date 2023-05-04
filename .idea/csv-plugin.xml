@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/ANIMAL_CHANNEL_COMMENT_INFO.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/ANIMAL_CHANNEL_VIDEO_INFO.csv">
           <value>
             <Attribute>
@@ -39,6 +46,20 @@
           </value>
         </entry>
         <entry key="/src/GAME_CHANNEL_VIDEO_INFO.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/MOVIE_CHANNEL_VIDEO_INFO.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/TB_CHANNEL_INFO.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
